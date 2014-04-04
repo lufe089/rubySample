@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombreCurso: MyString
+  nombreDocente: MyString
+  fechaCreacionCurso: 2014-04-03
+
+two:
+  nombreCurso: MyString
+  nombreDocente: MyString
+  fechaCreacionCurso: 2014-04-03
